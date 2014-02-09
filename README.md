@@ -40,6 +40,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [French](http://www.dogecoinfan.com)
 
 ## Mining pools
+- http://coinmaster.us
 - [http://www.wowmuchpool.com/](http://www.wowmuchpool.com/)
 - http://doge.pool.mn
 - http://doge.nonstopmine.com
